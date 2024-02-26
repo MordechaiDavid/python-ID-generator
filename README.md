@@ -53,6 +53,4 @@ The script provides functionalities to generate and iterate over valid ID number
 
 - This script does not have any external dependencies.
 
-## License
 
-This code is provided under the [MIT License](LICENSE).
